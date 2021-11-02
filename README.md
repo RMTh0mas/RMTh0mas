@@ -4,6 +4,6 @@
 - 🌱 Estudando Java☕
 - 📫 Contato: renanmiguelthomas@gmail.com ...
 
-<div class="tenor-gif-embed" data-postid="11570098" data-share-method="host" data-aspect-ratio="0.639535" data-width="100%"><a href="https://tenor.com/view/walking-code-computer-gif-11570098">Walking Code GIF</a>from <a href="https://tenor.com/search/walking-gifs">Walking GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![dark-vader-dark](https://user-images.githubusercontent.com/72501636/139917472-28268d9f-026f-4d8f-a04c-ad335e7ec6b7.gif)
 
 -->
