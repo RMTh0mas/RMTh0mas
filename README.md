@@ -1,4 +1,4 @@
-## Hello!🖖 Seja bem-vindo(a), meu nome é Renan Thomas.
+## Hello!🖖 Seja bem-vindo(a)
 
 - 🔭 Atualmente trabalho como Analista de Suporte N2
 - 🌱 Estudando Java☕
