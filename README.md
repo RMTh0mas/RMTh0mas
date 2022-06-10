@@ -1,7 +1,7 @@
 ## Hello!🖖 Seja bem-vindo(a)
 
 - 🔭 Atualmente trabalho como Analista de Suporte N2
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Java 
 - Cursando Engenharia de Software - Univille
 - 📫 Contato: renanmiguelthomas@gmail.com ...
 
