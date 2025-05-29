@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! 🖖 Welcome to my profile</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Data+Science+%7C+Backend+%7C+IA;Sempre+aprendendo+e+construindo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Data+Science+%7C+Backend+%7C+IA;Always+learning+and+building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -38,15 +38,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=RMTh0mas&show_icons=true" />
 </picture>
-
----
-
-### 🧰 Technologies I use
-
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ---
 
