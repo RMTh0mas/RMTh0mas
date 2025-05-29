@@ -27,10 +27,17 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RMTh0mas&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=RMTh0mas&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=RMTh0mas&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=RMTh0mas&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RMTh0mas&show_icons=true" />
+</picture>
 
 ---
 
